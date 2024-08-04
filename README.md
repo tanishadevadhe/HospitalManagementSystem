@@ -1,3 +1,2 @@
 # HospitalManagementSystem
-THIS IS A PROJECT BASED ON HOSPITAL MANAGEMENT SYSTEM .THIS PROJECT IS BASICALLY DIVIDED INTO 4 PARTS . LOGIN PAGE,PATIENT REGISTRATION WINDOW, HOSPITAL MANAGEMENT WINDOW, 
- DOCTOR MANAGEMENT WINDOW.IN THIS WE HAVE USED A TKINTER PYTHON LIBRARY.
+This is a project based on Hospital Management System. It is divided into four parts i.e Login page,Patient registration window,Hospital management window,Doctor management window. In this we have used a Tkinter a Python library
